@@ -1,6 +1,6 @@
 # Quickbana
 
-Run quickly a Kibana instance through Docker, for testing purposes.
+Run quickly a [Kibana](https://www.elastic.co/products/kibana) instance through [Docker](https://www.docker.com) over [Fedora](https://getfedora.org), for testing purposes.
 
 - Get the code:
 
